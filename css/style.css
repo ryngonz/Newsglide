@@ -1,0 +1,21 @@
+.simply-scroll-list li{
+	list-style-type: disc;
+}
+
+.vert .simply-scroll-list{
+	padding-left:10px;
+}
+
+.vert .simply-scroll-list li{
+	height:auto;
+	list-style:disc;
+	padding:5px 0px;
+	color:#626262;
+	width:auto;
+}
+
+.vert .simply-scroll-list, .vert .simply-scroll-list {
+	height: auto;
+	list-style-type: disc;
+	padding: 5px 0px 0px 20px;
+}
